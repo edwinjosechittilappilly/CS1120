@@ -1,0 +1,95 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="201px" height="298px" viewBox="-0.5 -0.5 201 298" content="&lt;mxfile&gt;&lt;diagram id=&quot;gTj_zDPPl0QJl9_Y8hI6&quot; name=&quot;Page-1&quot;&gt;7ZhRb5swEMc/TaTuYROGkKaPDem2h1aqlkl7jFxwwKqxkXGapJ9+ZzhCCESLSscTUqTgv8+Gu9/5sJl4Qbr/oWmWPKmIiYnrRPuJt5y4LiGOC39WOZSKT+5KIdY8QqNaWPF3hqKD6pZHLG8YGqWE4VlTDJWULDQNjWqtdmiG022UaN41ozFrCauQirb6h0cmKdW579T6T8bjxBwdxp6UVsYo5AmN1O5E8h4mXqCVMuVVug+YsMGr4lKO+36h9/hgmklzzQAE8UbFFn0LtrlRKdP4fOZQOZ3veCqohNZio6RZYQ+BNhU8lnAdwl1hpLd4Y9pwiNc9dhiVgRomXESP9KC29tlyQ8PXqrVIlObvMC0VOCd0a4Po3VnDYmVHguyAqlkONs+Vw+RMeqL7huEjzQ0KoRKCZjl/ObqRUh1zuVAGAoBGGB5wh+0vhpgcwUHGMwie0QcwwQEeoq5yHZu7OnHcKj2Sk6Rx76aYsJis8XHmmidcINJuvF4L73otacpacME9UwRdq1cWKKGA4lKqkjYX4kyqgAu2MRdx5xkNuYwfC5vltFZ+oZdWUjB2I4olkPAoYtKiUoYaWnKxEDLFpSmi4C/gB8EKnG/+xIcHD6BN6jb8rLk2gZLgC+UFIgbQd8yCv46n280TAUIyXgdw1p/fbQc/GkWQy/mI8OMIfXc4hPMOhFliGYwAPwzwdj4cwGkLYIuc4AWRkly1IyAfwpYCAMFqTr8txuVX0mLptVl6HdwEfWHiWeXccGXn16XtGc9/IWvmJJcJ0/yTUBJneh3LeX+Ufsda5JKb9fqmfCsGx+IaFGv0y7hIe5AlA5bZ6mhwwjZnptjsFGxHkn1IegPWW9LetFqSuDJv8H/k2Yfn7Mqa+yk82y9Qy7Oorzdjle3N8u7aA+VnsGy/QeOqyo4U+xwqyYCnStI+VsYnFXYE2QfkdMhNz6wTZFlaR4y9PvL8vx0PNOsPvEXfyWdy7+Ev&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-31-192-26-0">
+            <rect x="4" y="31" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-57-192-26-0">
+            <rect x="4" y="57" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-83-192-26-0">
+            <rect x="4" y="83" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-117-192-26-0">
+            <rect x="4" y="117" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-143-192-26-0">
+            <rect x="4" y="143" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-169-192-26-0">
+            <rect x="4" y="169" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-195-192-26-0">
+            <rect x="4" y="195" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-221-192-26-0">
+            <rect x="4" y="221" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-247-192-26-0">
+            <rect x="4" y="247" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-273-192-26-0">
+            <rect x="4" y="273" width="192" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 200 0 L 200 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 294 L 200 294 L 200 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 200 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="99.5" y="17.5">
+                Customer
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-192-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                __name
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-57-192-26-0)" font-size="12px">
+            <text x="5.5" y="69.5">
+                __address
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-83-192-26-0)" font-size="12px">
+            <text x="5.5" y="95.5">
+                __phone
+            </text>
+        </g>
+        <path d="M 0 108 L 200 108" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-117-192-26-0)" font-size="12px">
+            <text x="5.5" y="129.5">
+                __init__(name,address,phone)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-143-192-26-0)" font-size="12px">
+            <text x="5.5" y="155.5">
+                set_name(name)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-169-192-26-0)" font-size="12px">
+            <text x="5.5" y="181.5">
+                set_address(address)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-195-192-26-0)" font-size="12px">
+            <text x="5.5" y="207.5">
+                set_phone(phone)
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-221-192-26-0)" font-size="12px">
+            <text x="5.5" y="233.5">
+                get_name()
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-247-192-26-0)" font-size="12px">
+            <text x="5.5" y="259.5">
+                get_address()
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-273-192-26-0)" font-size="12px">
+            <text x="5.5" y="285.5">
+                get_phone()
+            </text>
+        </g>
+    </g>
+</svg>
